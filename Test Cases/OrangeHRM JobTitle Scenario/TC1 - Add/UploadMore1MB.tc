@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadMore1MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24fbed3e-3cba-43e1-a16d-f234503e61af</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\Users\\Shazlina-Testbits\\Documents\\Free_Test_Data_10.5MB_PDF.pdf'</defaultValue>
+      <description></description>
+      <id>5316f576-dfb6-4f44-8634-932534e02fa2</id>
+      <masked>false</masked>
+      <name>addFile</name>
+   </variable>
+</TestCaseEntity>

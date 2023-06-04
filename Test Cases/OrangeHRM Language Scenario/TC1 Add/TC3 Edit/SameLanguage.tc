@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SameLanguage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ae15379-02b6-49da-800a-5f698bb8404a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fdaf44e-c633-47cb-ad21-f87ec28ec884</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>924727fa-860a-4099-8494-8cff7652654f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Arabic'</defaultValue>
+      <description></description>
+      <id>4fdaf44e-c633-47cb-ad21-f87ec28ec884</id>
+      <masked>false</masked>
+      <name>editText</name>
+   </variable>
+   <variable>
+      <defaultValue>'French\r\n'</defaultValue>
+      <description></description>
+      <id>924727fa-860a-4099-8494-8cff7652654f</id>
+      <masked>false</masked>
+      <name>currentText</name>
+   </variable>
+</TestCaseEntity>

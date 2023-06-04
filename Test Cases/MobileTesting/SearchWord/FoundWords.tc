@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FoundWords</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a5afd93-a34b-4e07-af2c-e2965cc09b65</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c9971c6-c096-4e3a-a6f5-f384611894b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Goodluck'</defaultValue>
+      <description></description>
+      <id>9c9971c6-c096-4e3a-a6f5-f384611894b0</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

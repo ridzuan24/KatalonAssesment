@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddNationalities</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41eaac7d-b4f9-420d-b414-6488fe8d6694</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5c50f977-2979-4074-8b78-332359f76512</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/nationalitiesSource</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5c50f977-2979-4074-8b78-332359f76512</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nationalities</value>
+      <variableId>61a06c47-72c8-4b90-b92d-0ea4f7ebc339</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Afghanistan'</defaultValue>
+      <description></description>
+      <id>61a06c47-72c8-4b90-b92d-0ea4f7ebc339</id>
+      <masked>false</masked>
+      <name>Nationalities</name>
+   </variable>
+</TestCaseEntity>

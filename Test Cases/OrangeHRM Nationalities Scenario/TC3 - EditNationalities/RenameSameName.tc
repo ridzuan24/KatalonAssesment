@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RenameSameName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23186f0f-d367-4674-a8a6-b33176fcaa66</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a64a7cf-62ee-40d2-82cc-75ccff227f61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Albanian'</defaultValue>
+      <description></description>
+      <id>7a64a7cf-62ee-40d2-82cc-75ccff227f61</id>
+      <masked>false</masked>
+      <name>sameNationalities</name>
+   </variable>
+</TestCaseEntity>

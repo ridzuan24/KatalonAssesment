@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddNewSkill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29ac098a-2b81-4455-8930-a336d1172580</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3c3592fb-cd68-454c-8568-d84a6aec0f4c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/skillsSource</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3c3592fb-cd68-454c-8568-d84a6aec0f4c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skillName</value>
+      <variableId>b94426ca-9015-4f11-a2c4-c79d7d0fde7b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3c3592fb-cd68-454c-8568-d84a6aec0f4c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skillDesc</value>
+      <variableId>74c70611-9531-401a-89b7-d594f0f6c17a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Adobe Photoshop'</defaultValue>
+      <description></description>
+      <id>b94426ca-9015-4f11-a2c4-c79d7d0fde7b</id>
+      <masked>false</masked>
+      <name>skillName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Graphic Designer'</defaultValue>
+      <description></description>
+      <id>74c70611-9531-401a-89b7-d594f0f6c17a</id>
+      <masked>false</masked>
+      <name>skillDesc</name>
+   </variable>
+</TestCaseEntity>

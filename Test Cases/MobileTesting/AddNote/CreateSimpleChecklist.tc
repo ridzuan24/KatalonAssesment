@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateSimpleChecklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40e86d2e-7692-4644-ba27-8d730063f7d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>419833a9-cfab-4cf9-b9a8-f38d3f7bb6f6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Checklist1'</defaultValue>
+      <description></description>
+      <id>419833a9-cfab-4cf9-b9a8-f38d3f7bb6f6</id>
+      <masked>false</masked>
+      <name>checklist</name>
+   </variable>
+</TestCaseEntity>

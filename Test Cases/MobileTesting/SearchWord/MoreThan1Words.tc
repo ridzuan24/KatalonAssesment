@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MoreThan1Words</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea150ab8-379e-46ee-8a00-c64a5e735c5c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1de29a6f-959d-4859-bf2b-867cb17ae4f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Have a nice day'</defaultValue>
+      <description></description>
+      <id>1de29a6f-959d-4859-bf2b-867cb17ae4f8</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

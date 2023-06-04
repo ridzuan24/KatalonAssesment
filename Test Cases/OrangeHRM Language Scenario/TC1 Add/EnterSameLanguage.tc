@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EnterSameLanguage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cc13cbd-3f86-49ba-8877-6b07c15cb5b6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1c4222f-4a9f-46bd-a9e5-0f0e3b24ae65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jawa'</defaultValue>
+      <description></description>
+      <id>d1c4222f-4a9f-46bd-a9e5-0f0e3b24ae65</id>
+      <masked>false</masked>
+      <name>languageName</name>
+   </variable>
+</TestCaseEntity>

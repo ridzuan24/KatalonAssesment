@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SameSkillName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ec13ef8-9c6b-471c-86d1-96002148bab1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d47b06a6-21a4-4cc9-8a60-31cc514e3603</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C#'</defaultValue>
+      <description></description>
+      <id>d47b06a6-21a4-4cc9-8a60-31cc514e3603</id>
+      <masked>false</masked>
+      <name>skillName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditTextNote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>899f3687-59f3-46ac-88ab-1782f5a7ff84</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d109103-4718-4e01-971c-84cd3c12ddd6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Have a bad day'</defaultValue>
+      <description></description>
+      <id>4d109103-4718-4e01-971c-84cd3c12ddd6</id>
+      <masked>false</masked>
+      <name>editNote</name>
+   </variable>
+</TestCaseEntity>

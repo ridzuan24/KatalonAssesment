@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RenameSameSkillName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16aa069a-d881-4249-9eef-5eb75d7f8597</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>087e3b40-4d8d-4748-b52e-dc141a47cc10</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Java'</defaultValue>
+      <description></description>
+      <id>087e3b40-4d8d-4748-b52e-dc141a47cc10</id>
+      <masked>false</masked>
+      <name>sameSkillName</name>
+   </variable>
+</TestCaseEntity>

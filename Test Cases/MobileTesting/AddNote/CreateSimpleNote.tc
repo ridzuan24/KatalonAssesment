@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateSimpleNote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c77b359c-c9fe-4ff9-8eb2-375727d98333</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>403bd43e-0fed-43f4-a8b6-b7229d610b51</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/mobiletesting-AddNote</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>403bd43e-0fed-43f4-a8b6-b7229d610b51</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>text</value>
+      <variableId>689fc155-59a3-48d9-a078-f5b10c0febd1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Goodluck'</defaultValue>
+      <description></description>
+      <id>689fc155-59a3-48d9-a078-f5b10c0febd1</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

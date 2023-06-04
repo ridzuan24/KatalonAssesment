@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ExistingJobCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa9def6d-d55c-48a5-85f1-ea70837dc20a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d49aea6-65de-4097-b604-74130cfd2561</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Operatives'</defaultValue>
+      <description></description>
+      <id>3d49aea6-65de-4097-b604-74130cfd2561</id>
+      <masked>false</masked>
+      <name>jobCategory</name>
+   </variable>
+</TestCaseEntity>

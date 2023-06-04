@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SuccessfullRename</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ec5addc-c9d8-4def-9941-1425173c47e8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1d6bdcf-6f5d-47a3-bcee-ce4839f90aa2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08f72920-c4d5-4674-9299-b4892a201424</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Italian'</defaultValue>
+      <description></description>
+      <id>a1d6bdcf-6f5d-47a3-bcee-ce4839f90aa2</id>
+      <masked>false</masked>
+      <name>editLanguage</name>
+   </variable>
+   <variable>
+      <defaultValue>'French'</defaultValue>
+      <description></description>
+      <id>08f72920-c4d5-4674-9299-b4892a201424</id>
+      <masked>false</masked>
+      <name>currentLanguage</name>
+   </variable>
+</TestCaseEntity>

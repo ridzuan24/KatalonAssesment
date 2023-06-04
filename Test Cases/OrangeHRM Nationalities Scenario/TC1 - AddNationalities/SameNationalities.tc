@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SameNationalities</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3834532-1d2b-448a-a040-0f95470dd168</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64868ed3-b008-4df0-a25a-9fa07fb2f5e5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Afghan'</defaultValue>
+      <description></description>
+      <id>64868ed3-b008-4df0-a25a-9fa07fb2f5e5</id>
+      <masked>false</masked>
+      <name>existName</name>
+   </variable>
+</TestCaseEntity>

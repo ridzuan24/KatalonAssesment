@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddJobCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3b9d20e-fd2e-4d6f-97a8-22503536aed3</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c5c0b1f4-1f8a-4576-b2de-ed8c41086f65</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/jobCategoriesSource</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c5c0b1f4-1f8a-4576-b2de-ed8c41086f65</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jobCategories</value>
+      <variableId>f88f3bb5-2ec2-4530-bcc2-ece269182e97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Automation Tester'</defaultValue>
+      <description></description>
+      <id>f88f3bb5-2ec2-4530-bcc2-ece269182e97</id>
+      <masked>false</masked>
+      <name>jobCategories</name>
+   </variable>
+</TestCaseEntity>

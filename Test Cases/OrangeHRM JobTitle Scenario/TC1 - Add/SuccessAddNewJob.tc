@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SuccessAddNewJob</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>956811b0-8660-48a3-8e44-1dd8a15d7548</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15f9920b-c664-4b4e-a084-dc2c9dea5879</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0195d143-6ba8-49d0-9740-e64a6b1aa077</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5cdeea6-e046-4a41-b78f-0eb7d5ee762c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>61161957-ec90-4de6-b097-8e0b37bb06e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Junior Accounting Manager'</defaultValue>
+      <description></description>
+      <id>15f9920b-c664-4b4e-a084-dc2c9dea5879</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Looking for a new accounting manager'</defaultValue>
+      <description></description>
+      <id>0195d143-6ba8-49d0-9740-e64a6b1aa077</id>
+      <masked>false</masked>
+      <name>jobDesc</name>
+   </variable>
+   <variable>
+      <defaultValue>'Goodluck'</defaultValue>
+      <description></description>
+      <id>f5cdeea6-e046-4a41-b78f-0eb7d5ee762c</id>
+      <masked>false</masked>
+      <name>jobNote</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Shazlina-Testbits\\Documents\\specjob.png'</defaultValue>
+      <description></description>
+      <id>61161957-ec90-4de6-b097-8e0b37bb06e2</id>
+      <masked>false</masked>
+      <name>jobFile</name>
+   </variable>
+</TestCaseEntity>

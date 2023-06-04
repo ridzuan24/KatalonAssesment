@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SucessfullAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e3c5047-bc76-46b2-8f30-7d21a7d3f14e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>389efa24-7633-453c-a889-4cc43004f2af</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/languageSource</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>389efa24-7633-453c-a889-4cc43004f2af</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>language</value>
+      <variableId>cc9cb06b-519b-4c0b-8540-a171f5650b1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jawa'</defaultValue>
+      <description></description>
+      <id>cc9cb06b-519b-4c0b-8540-a171f5650b1e</id>
+      <masked>false</masked>
+      <name>language</name>
+   </variable>
+</TestCaseEntity>

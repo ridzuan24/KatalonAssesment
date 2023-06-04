@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RenameNationalities</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c56073a3-e1d7-4ef3-8612-374f528fc78e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bf8443c-6ba2-4c09-b3ce-266f2142e3e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Afghanistan1'</defaultValue>
+      <description></description>
+      <id>4bf8443c-6ba2-4c09-b3ce-266f2142e3e2</id>
+      <masked>false</masked>
+      <name>renameNationalities</name>
+   </variable>
+</TestCaseEntity>
